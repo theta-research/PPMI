@@ -1,2 +1,3 @@
-# PPMI
-Privacy-Preserving Model Interaction Framework
+# Privacy-Preserving Model Interaction
+
+To be released soon.
